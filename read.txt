@@ -2,8 +2,4 @@
 2.new
 3
 4.branch
-<<<<<<< HEAD
-5.chongtu
-=======
-5.chongtu
->>>>>>> dev
+edit by dev 5.chongtu
