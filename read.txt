@@ -5,4 +5,12 @@
 fix 5.chongtu
 edit by dev 5.chongtu
 ff merge
+<<<<<<< HEAD
 解决bug
+=======
+<<<<<<< HEAD
+test ff merge
+=======
+解决bug
+>>>>>>> 942cd76... fix bug101
+>>>>>>> 5995b9b... fix conflict
